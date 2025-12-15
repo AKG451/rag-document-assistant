@@ -2,9 +2,6 @@
 
 A full-stack AI application that enables users to upload PDF documents and engage in natural language conversations with them. Built using **Retrieval-Augmented Generation (RAG)** to provide accurate, context-aware answers based on document content.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=RAG+Application+Screenshot) 
-*(Add a real screenshot of your UI here later)*
-
 ## 🚀 Features
 
 -   **📄 Smart PDF Ingestion:** Uploads, cleans, and chunks PDF text automatically.
