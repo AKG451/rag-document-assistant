@@ -104,7 +104,7 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 
 # Vector Database
 PINECONE_API_KEY=your_pinecone_api_key_here
-PINECONE_INDEX_NAME=rag-assistant-index
+PINECONE_INDEX_NAME=rag-app
 ```
 
 Get your API keys:
