@@ -23,9 +23,9 @@ A full-stack AI application that enables users to upload PDF documents and engag
 ```bash
 git clone [https://github.com/AKG451/rag-document-assistant.git](https://github.com/AKG451/rag-document-assistant.git)
 cd rag-document-assistant
+```
 
-## 2. Backend Setup
-
+### 2. Backend Setup
 The backend handles document processing, vector storage, and AI interactions.
 
 ```bash
